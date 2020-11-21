@@ -1,5 +1,5 @@
 {
-    "config": ["config/xlsdk_address.json", "config/alsdk_address.json"],
+    "config": "config/xlsdk_address.json", "config/alsdk_address.json",
     "build": "run.py",
     "library": ["src"],
     "notebook": ["checkpoint2.ipynb"],
