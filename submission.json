@@ -1,7 +1,7 @@
 {
-    "config": ["config/xlsdk_address.json","config/altsdk_address.json"],
-    "build": ["run.py"],
-    "library": ["src"],
-    "notebook": ["checkpoint2.ipynb"],
-    "targets": ["xlsdk", "altsdk]
+    "config": ["config/xlsdk.json","config/altsdk.json"],
+    "build": ["build/run.py"],
+    "library": ["src/battery_new.dll"],
+    "notebook": ["notebook/checkpoint2.ipynb"],
+    "targets": ["src/battery_new.c", "src/battery_new.h"]
 }
