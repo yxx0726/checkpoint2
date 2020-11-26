@@ -18,7 +18,7 @@ USER root
 
 RUN	apt-get install -y aria2 && \ 
     apt-get install -y nmap && \
-    apt-get install -y traceroute
+    apt-get install g++
 
 # 3) install packages
 RUN pip install --no-cache-dir geopandas
