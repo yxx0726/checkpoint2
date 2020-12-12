@@ -1,5 +1,5 @@
 # checkpoint2
-This Project is build by Microsoft Visual Studio 2017.\\
+This Project is build by Microsoft Visual Studio 2017./n
 To build this project:
 1: open the my_battery.sln in MSV 2017
 2: Set the configurations in the MSV as decribed below:
