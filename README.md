@@ -8,6 +8,7 @@ To build this project:<br />
 5: After build successful, click "Start without Debugging" in MSV<br />
 6: Then the data collection will start and you can press Ctrl+C to stop the process anytime<br />
 7: The input library created will be in the project folder.<br />
+<br />
 Add the following props file to your project:
 =============================================
 	_xlsdk\src\build_variables\build_variables.props
