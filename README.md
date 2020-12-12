@@ -1,13 +1,13 @@
 # checkpoint2
-This Project is build by Microsoft Visual Studio 2017.\n
-To build this project:
-1: open the my_battery.sln in MSV 2017
-2: Set the configurations in the MSV as decribed below:
-3: Add my_battery.c in source folder and my_battery.h in the header file and the property sheet to the property manager
-4: Right click on the sln file,  build it
-5: After build successful, click "Start without Debugging" in MSV
-6: Then the data collection will start and you can press Ctrl+C to stop the process anytime
-7: The input library created will be in the project folder.
+This Project is build by Microsoft Visual Studio 2017.<br />
+To build this project:<br />
+1: open the my_battery.sln in MSV 2017<br />
+2: Set the configurations in the MSV as decribed below:<br />
+3: Add my_battery.c in source folder and my_battery.h in the header file and the property sheet to the property manager<br />
+4: Right click on the sln file,  build it<br />
+5: After build successful, click "Start without Debugging" in MSV<br />
+6: Then the data collection will start and you can press Ctrl+C to stop the process anytime<br />
+7: The input library created will be in the project folder.<br />
 Add the following props file to your project:
 =============================================
 	_xlsdk\src\build_variables\build_variables.props
